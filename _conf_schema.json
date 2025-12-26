@@ -1,0 +1,23 @@
+{
+  "api_base_url": {
+    "description": "CloudMail邮箱地址",
+    "type": "string",
+    "hint": "例如 https://mail.example.com (末尾不带 /)"
+  },
+  "admin_email": {
+    "description": "管理员邮箱",
+    "type": "string",
+    "hint": "用于获取全局权限，例如 admin@example.com"
+  },
+  "admin_password": {
+    "description": "管理员密码",
+    "type": "string",
+    "hint": "管理员的登录密码",
+    "obvious_hint": true
+  },
+  "email_domain": {
+    "description": "默认邮箱后缀",
+    "type": "string",
+    "hint": "例如 @example.com，用于注册/绑定时自动补全"
+  }
+}
