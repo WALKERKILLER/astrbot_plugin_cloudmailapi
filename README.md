@@ -63,4 +63,4 @@
 
 本项目采用 [MIT 许可证](LICENSE) 开源，详情请查阅许可证文件
 
-![Star History Chart](https://api.star-history.com/svg?repos=WALKERKILLER/astrbot-plugin-cloudmailapi&type)
+![Star History Chart](https://api.star-history.com/svg?repos=WALKERKILLER/astrbot_plugin_cloudmailapi&type)
