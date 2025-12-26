@@ -2,5 +2,5 @@ name: astrbot_plugin_cloudmailapi
 display_name: CloudMail邮箱API工具
 desc: 对接CloudMail邮件系统API，支持自助注册、登录及查信（仅测试napcat）
 version: v1.0.0
-author: WalkerKiller
+author: WALKERKILLER
 repo: https://github.com/WALKERKILLER/astrbot_plugin_cloudmailapi
